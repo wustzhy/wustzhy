@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ## React Native 系列
 
-go to 👉 [https://github.com/wustzhy](https://github.com/zyestin/zyestin)
+go to 👉 [https://github.com/wustzhy](https://github.com/zyestin/zyestin/blob/main/README.md#react-native-系列)
 
 ## 机器学习 系列
 
