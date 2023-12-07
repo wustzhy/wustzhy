@@ -5,7 +5,7 @@ I'm wustzhy, Used to be an iOSer, now an RNer for 2+ years.
 - 🔭 Currently working on i-hua-ben
 - 🌱 Currently learning react-native
 - 👯 Looking to collaborate on earn more money and do something more meaningful
-- 📫 wustzhy@sina.com
+- 📫 wustzhy@sina.com  qq群:781320177
 
 <!--
 **wustzhy/wustzhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
