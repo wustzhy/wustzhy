@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm wustzhy, Used to be an iOSer, now an RNer for 2+ years.
+I'm wustzhy, Used to be an iOSer, now an RNer since 2020.
 
 - 🔭 Currently working on i-hua-ben
-- 🌱 Currently learning react-native
-- 👯 Looking to collaborate on earn more money and do something more meaningful
+- 🌱 Currently learning react-native, web dev, fullstack
+- 👯 Looking to collaborate, earn more money and do something more meaningful
 - 📫 wustzhy@sina.com  qq群:781320177
 
 <!--
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ## React Native 系列
 
-go to 👉 [https://github.com/wustzhy](https://github.com/zyestin/zyestin/blob/main/README.md#react-native-系列)
+go to 👉 [https://github.com/zyestin](https://github.com/zyestin/zyestin/blob/main/README.md#react-native-系列)
 
 ## 机器学习 系列
 
