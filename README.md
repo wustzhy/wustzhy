@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm wustzhy, Used to be an iOSer, now an RNer since 2020.
+I'm wustzhy. Used to be an iOSer, now an RNer since 2020.
 
 - 🔭 Currently working on i-hua-ben
-- 🌱 Currently learning react-native, web dev, fullstack
+- 🌱 Currently learning react-native, web, fullstack
 - 👯 Looking to collaborate, earn more money and do something more meaningful
 - 📫 wustzhy@sina.com  qq群:781320177
 
